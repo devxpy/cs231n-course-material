@@ -1,0 +1,12 @@
+http://cs231n.github.io/neural-networks-1
+http://cs231n.github.io/neural-networks-2
+http://cs231n.github.io/python-numpy-tutorial
+http://cs231n.github.io/linear-classify
+http://cs231n.github.io/optimization-1
+http://cs231n.github.io/convolutional-networks
+http://cs231n.github.io/neural-networks-3
+http://cs231n.github.io/optimization-2
+http://colah.github.io/posts/2015-08-Backprop
+http://cs231n.github.io/classification
+http://cs231n.github.io/assignments2016/assignment1
+http://cs231n.stanford.edu/2016/syllabus.html
